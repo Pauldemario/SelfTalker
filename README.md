@@ -2,7 +2,7 @@
 
 ## ${\color{cyan}\text{Project Overview}}$
 
-Imagine being able to converse with a version of yourself that can provide answers to any question you may have. This project aimed to achieve just that!
+Imagine being able to converse with a version of yourself that can provide answers to any question you may have. This project aimed to achieve just that!!
 
 You can now engage in a conversation with yourself and seek answers to questions that may have previously eluded you.
 
